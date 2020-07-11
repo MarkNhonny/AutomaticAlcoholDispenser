@@ -43,3 +43,6 @@ void measure_distance()
  
  distance=time*200/20000;
 }
+//Coded by Mark Garcia.
+//Stay Safe and Healthy <3.
+//Always wear facemask when going outside and always practice physical distancing.
