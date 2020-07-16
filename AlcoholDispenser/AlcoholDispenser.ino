@@ -1,7 +1,7 @@
 //ALCOHOL DISPENSER
 #define trigger 5
 #define echo 4
-#define Relay 3
+#define Relay 6
 
 float time=0,distance=0;
  
